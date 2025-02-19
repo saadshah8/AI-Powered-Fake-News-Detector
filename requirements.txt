@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+newspaper3k
+python-dotenv
+jinja2
+langchain
+langchain_huggingface
+langchain_chroma
+langchain_groq
